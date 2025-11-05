@@ -1,0 +1,1 @@
+# epam-practicals-cli-only
